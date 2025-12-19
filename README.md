@@ -39,9 +39,22 @@ regime_switching_models/\
 #### Dependencies
   - [requirements.txt](https://github.com/manuelmusngi/hidden-markov-modeling/blob/main/requirements.txt)
 
-#### Other Regime Switching Models
+#### Future Enhancements
 
-Further enhancements will include Other Regime Switching Models.
+Upcoming additions will expand the library to include:
+
+- Hierarchical HMMs
+
+- Markov-Switching VAR / ARIMA models
+
+- Regime-Switching GARCH / Stochastic Volatility models
+
+- Machine-learning–driven regime classifiers
+
+- Hybrid statistical–ML architectures
+
+These extensions aim to broaden the toolkit for regime-aware modeling and systematic strategy development.
+
 - [Other Regime Switching Models](https://github.com/manuelmusngi/regime_switching_models/blob/main/Other%20Regime%20Switching%20Models)
 
 #### References

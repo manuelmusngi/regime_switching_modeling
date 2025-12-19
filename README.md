@@ -1,14 +1,18 @@
-#### Regime Switching Models
-This project explores a variety of Regime-Switching Models to analyze financial time series data. These models aim to identify, predict, and understand market regime shifts, which are fundamental to improving trading strategies, risk management, and portfolio optimization.
-
-The repository includes implementations of statistical, machine learning, and econometric models for regime-switching analysis, with a focus on production-ready pipelines for model training, evaluation, and backtesting.
-
 #### Markov Regime-Switching Models
-Markov-based methodologies model the inherent uncertainty, regime shifts, and transitions in market behavior. They provide a probabilistic framework to not just understand historical trends but also to forecast future market conditions, making them invaluable tools in quantitative market analysis.
+Markov-based approaches capture the inherent uncertainty and dynamic transitions in market behavior. By modeling regime shifts probabilistically, these methods help quantify both historical and forward-looking market conditions—making them foundational tools in quantitative finance.
 
-Hidden Markov Models (HMMs): A probabilistic model where market states (regimes) are unobservable (hidden) and must be inferred from observed data such as returns or volatility.
+#### Hidden Markov Models (HMMs)
+HMMs assume that market regimes are latent (hidden) and must be inferred from observable features such as returns, volatility, or microstructure signals. This project demonstrates how HMMs can be applied to:
 
-This quantitative analysis short study is a simplistic approach to the application of the hidden markov model on time series pattern recognition and market regime inferences that is amenable to systematic strategies implementation. Hidden Markov Models shows the ability to determine market regime state defined by any selected features.
+Identify market states from noisy time series
+
+Recognize recurring patterns in price dynamics
+
+Generate regime-aware trading signals
+
+Support systematic strategy design
+
+The included study applies HMMs to E-mini S&P 500 (ES) data, showcasing how regime inference can enhance pattern recognition and strategy robustness.
 
 [Hidden Markov Modeling - ES - E-mini S&P 500](https://github.com/manuelmusngi/regime_switching_models/blob/main/src/1-Hidden-Markov-Modeling-%20ES%20-%20E-mini%20S%26P%20500.ipynb) 
 

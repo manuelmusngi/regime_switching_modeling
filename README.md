@@ -1,4 +1,9 @@
- 
+ <svg width="120" height="120" xmlns="http://www.w3.org/2000/svg">
+  <rect width="120" height="120" rx="12" fill="#1A1A1A"/>
+  <text x="50%" y="40%" fill="#4FC3F7" font-size="22" text-anchor="middle" font-family="Arial">S₁ → S₂</text>
+  <text x="50%" y="75%" fill="#FFFFFF" font-size="14" text-anchor="middle" font-family="Arial">Markov Regimes</text>
+</svg>
+
  
 ![Model](https://img.shields.io/badge/Model-Regime%20Switching-orange.svg)
 ![Energy](https://img.shields.io/badge/Market-Henry%20Hub%20NG-lightblue.svg)
